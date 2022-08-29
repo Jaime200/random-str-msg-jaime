@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-jaime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaime200/random-str-msg-jaime.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaime200/random-str-msg-jaime/issues"
+  },
+  "homepage": "https://github.com/Jaime200/random-str-msg-jaime#readme",
+  "bin": {
+    "random-str-msg-jaime": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
